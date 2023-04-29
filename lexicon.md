@@ -21,3 +21,7 @@ a test word
 ### Variable
 
 Eine Variable
+
+### Vector
+
+One dimensional list of numbers.
