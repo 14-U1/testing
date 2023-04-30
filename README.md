@@ -39,10 +39,6 @@ Multiple words followed by a period (.).
 
 This description was updated.
 
-### test
-
-a test word
-
 ## U
 
 ### Update
