@@ -33,12 +33,6 @@ Two dimensional table of numbers.
 
 Multiple words followed by a period (.).
 
-## T
-
-### Test
-
-This description was updated.
-
 ## U
 
 ### Update
