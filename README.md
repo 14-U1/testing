@@ -21,12 +21,6 @@ for (int x : array) {
 // alle Zahlen in dem Array werden ausgegeben
 ```
 
-## M
-
-### Matrix
-
-Two dimensional table of numbers.
-
 ## S
 
 ### Sentence
