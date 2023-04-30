@@ -27,6 +27,12 @@ for (int x : array) {
 // alle Zahlen in dem Array werden ausgegeben
 ```
 
+## I
+
+### item
+
+A minecraft Item is the thing you hzave in your inventory when you pickup block, etc.
+
 ## S
 
 ### Sentence
